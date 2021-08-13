@@ -47,9 +47,7 @@ $ cd AI-using-Node.js'
 ## Step 3: Install all required Dependencies
 ```
 $ npm init -y
-```
 
-```
 $ npm install @tensorflow/tfjs-node
 ```
 Alternatively you can use the GPU version:
@@ -59,13 +57,9 @@ $ npm install @tensorflow/tfjs-node-gpu
 
 ```
 $ npm install @tensorflow/tfjs-node
-```
 
-```
 $ npm install @tensorflow-models/coco-ssd
-```
 
-```
 $ npm install -g @codait/max-vis
 
 ```
