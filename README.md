@@ -12,11 +12,10 @@ Recent advances in artificial intelligence (AI) have transformed many services a
 In this workshop, you’ll get an overview of using AI in your Node.js applications by using TensorFlow.js.
 
 Although data scientists tend to prefer Python for AI development, JavaScript does offer several advantages on both the client and server:
-
-    The large community of JavaScript developers can be effective in using AI on the large scale.
-    The smaller footprint and fast start time of Node.js can be an advantage when deployed in containers and IoT devices.
-    AI models process voice, written text, and images, and when the models are served in the cloud, the data must be sent to a remote server. Data privacy has become a significant concern recently, so being able to run the model locally on the client with JavaScript can help to alleviate this concern.
-    Running a model locally on the client can help make browser apps more interactive.
+1. The large community of JavaScript developers can be effective in using AI on the large scale.
+2. The smaller footprint and fast start time of Node.js can be an advantage when deployed in containers and IoT devices.
+3. AI models process voice, written text, and images, and when the models are served in the cloud, the data must be sent to a remote server. Data privacy has become a significant concern recently, so being able to run the model locally on the client with JavaScript can help to alleviate this concern.
+4. Running a model locally on the client can help make browser apps more interactive.
 
 
 ## TensorFlow.js
@@ -24,10 +23,9 @@ Although data scientists tend to prefer Python for AI development, JavaScript do
 TensorFlow.js is an open source software library for JavaScript developers to create and use machine learning or deep learning models directly in the browser or a Node.js application. TensorFlow is the broader open source software that includes support for different programming languages such as Python and different platforms such as server, mobile, and IoT.
 
 With TensorFlow.js, you can:
-
-    Create models easily and train them from scratch.
-    Reuse a model that has been pre-trained. For Node.js specifically, a model can be written in Python to use the distributed training capability on huge data sets. Then, the trained model can be loaded and used in a Node.js application.
-    Use the GPU for faster processing.
+1. Create models easily and train them from scratch.
+2. Reuse a model that has been pre-trained. For Node.js specifically, a model can be written in Python to use the distributed training capability on huge data sets. Then, the trained model can be loaded and used in a Node.js application.
+3. Use the GPU for faster processing.
 
 
 ## Prerequisites
@@ -35,15 +33,18 @@ With TensorFlow.js, you can:
 2. Python (https://www.python.org/)
 3. Xcode (MacOS only - ``` $ xcode-select --install ```)
 
+## Step 1: IBM Cloud Login
+Sign up for your IBM Cloud account / Login to your existing Account – https://ibm.biz/BdfG7A
 
-## Step 1: Clone the Repo
+
+## Step 2: Clone the Repo
 ```
 $ git clone https://github.com/1154046/AI-using-Node.js/
 
 $ cd AI-using-Node.js'
 ```
 
-## Step 2: Install all required Dependencies
+## Step 3: Install all required Dependencies
 ```
 $ npm init -y
 ```
@@ -70,7 +71,7 @@ $ npm install -g @codait/max-vis
 ```
 
 
-## Step 3: Run your Model
+## Step 4: Run your Model
 The project uses the image, named image1.png in the cloned directory, please add more images if required.
 
 ```
