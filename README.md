@@ -46,7 +46,7 @@ You can have a quick look at the demo without going through the repo from here: 
 ```
 $ git clone https://github.com/1154046/AI-using-Node.js/
 
-$ cd AI-using-Node.js'
+$ cd AI-using-Node.js
 ```
 
 ## Step 3: Install all required Dependencies
