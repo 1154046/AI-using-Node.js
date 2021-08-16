@@ -37,7 +37,7 @@ With TensorFlow.js, you can:
 Sign up for your IBM Cloud account / Login to your existing Account – https://ibm.biz/BdfG7A. IBM Cloud offers a range of services, which include the IBM Machine Learning instance that can be provisioned from here : (https://cloud.ibm.com/catalog/services/machine-learning). Have a quick look at how to get started here: (https://dataplatform.cloud.ibm.com/docs/content/wsj/analyze-data/ml-overview.html).
 
 
-## Additional Note: This project emulates the work done by the IBM MAX project- https://github.com/1154046/MAX-Object-Detector-Web-App.
+### Additional Note: This project emulates the work done by the IBM MAX project- https://github.com/1154046/MAX-Object-Detector-Web-App.
 
 You can have a quick look at the demo without going through the repo from here: http://max-object-detector.codait-prod-41208c73af8fca213512856c7a09db52-0000.us-east.containers.appdomain.cloud/app/
 
